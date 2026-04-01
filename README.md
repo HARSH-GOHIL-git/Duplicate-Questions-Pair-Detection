@@ -48,8 +48,8 @@ The core logic relies on `sentence-transformers` and operates in a logical casca
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/HARSH-GOHIL-git/Duplicate-Questions-Pair-Detection.git](https://github.com/HARSH-GOHIL-git/Duplicate-Questions-Pair-Detection.git)
-   cd duplicate-question-detector
+   git clone https://github.com/HARSH-GOHIL-git/Duplicate-Questions-Pair-Detection.git
+   cd Duplicate-Questions-Pair-Detection
     ```
 2.  **Create a virtual environment (Recommended):**
 
