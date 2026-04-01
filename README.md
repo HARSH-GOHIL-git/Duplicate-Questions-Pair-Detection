@@ -1,4 +1,4 @@
-````markdown
+<!-- ````markdown -->
 # 🔍 Duplicate Question Pair Detector
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
@@ -43,7 +43,7 @@ The core logic relies on `sentence-transformers` and operates in a logical casca
 * Python 3.8 or higher
 * Git
 
-````
+<!-- ```` -->
 ### Step-by-Step Guide
 
 1. **Clone the repository:**
